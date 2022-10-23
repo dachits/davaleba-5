@@ -1,0 +1,17 @@
+header {
+	width: 1440px;
+}
+li {
+	display: inline-block;
+	padding-top: 20px;
+	padding-left: 20px;
+	color: #343638;
+	vertical-align: middle;
+}
+.witeli {color: red}
+h2{
+	padding-top: 25px;
+}
+section {width:1160px ;
+	margin: 0 auto;
+}
